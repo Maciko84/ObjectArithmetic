@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Maciko84.ObjectArithmetic", "Maciko84.ObjectArithmetic\Maciko84.ObjectArithmetic.csproj", "{0FECBAB9-09DB-40A5-8717-37C30A63631A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Examples", "Examples", "{A811CFF2-2C23-4F59-BE0F-B23A9640D754}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SavingAndReading", "SavingAndWriting\SavingAndReading.csproj", "{A80C3882-3F63-4CA5-A954-50593DAFCEF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FECBAB9-09DB-40A5-8717-37C30A63631A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FECBAB9-09DB-40A5-8717-37C30A63631A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FECBAB9-09DB-40A5-8717-37C30A63631A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FECBAB9-09DB-40A5-8717-37C30A63631A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A80C3882-3F63-4CA5-A954-50593DAFCEF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A80C3882-3F63-4CA5-A954-50593DAFCEF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A80C3882-3F63-4CA5-A954-50593DAFCEF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A80C3882-3F63-4CA5-A954-50593DAFCEF6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A80C3882-3F63-4CA5-A954-50593DAFCEF6} = {A811CFF2-2C23-4F59-BE0F-B23A9640D754}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DAF1496-708B-4706-B536-8731322A3440}
+	EndGlobalSection
+EndGlobal

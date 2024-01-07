@@ -1,0 +1,12 @@
+C:\Users\missg\source\repos\Maciko84.ObjectArithmetic\Maciko84.ObjectArithmetic\bin\Debug\net7.0\Maciko84.ObjectArithmetic.deps.json
+C:\Users\missg\source\repos\Maciko84.ObjectArithmetic\Maciko84.ObjectArithmetic\bin\Debug\net7.0\Maciko84.ObjectArithmetic.dll
+C:\Users\missg\source\repos\Maciko84.ObjectArithmetic\Maciko84.ObjectArithmetic\bin\Debug\net7.0\Maciko84.ObjectArithmetic.pdb
+C:\Users\missg\source\repos\Maciko84.ObjectArithmetic\Maciko84.ObjectArithmetic\obj\Debug\net7.0\Maciko84.ObjectArithmetic.csproj.AssemblyReference.cache
+C:\Users\missg\source\repos\Maciko84.ObjectArithmetic\Maciko84.ObjectArithmetic\obj\Debug\net7.0\Maciko84.ObjectArithmetic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\missg\source\repos\Maciko84.ObjectArithmetic\Maciko84.ObjectArithmetic\obj\Debug\net7.0\Maciko84.ObjectArithmetic.AssemblyInfoInputs.cache
+C:\Users\missg\source\repos\Maciko84.ObjectArithmetic\Maciko84.ObjectArithmetic\obj\Debug\net7.0\Maciko84.ObjectArithmetic.AssemblyInfo.cs
+C:\Users\missg\source\repos\Maciko84.ObjectArithmetic\Maciko84.ObjectArithmetic\obj\Debug\net7.0\Maciko84.ObjectArithmetic.csproj.CoreCompileInputs.cache
+C:\Users\missg\source\repos\Maciko84.ObjectArithmetic\Maciko84.ObjectArithmetic\obj\Debug\net7.0\Maciko84.ObjectArithmetic.dll
+C:\Users\missg\source\repos\Maciko84.ObjectArithmetic\Maciko84.ObjectArithmetic\obj\Debug\net7.0\refint\Maciko84.ObjectArithmetic.dll
+C:\Users\missg\source\repos\Maciko84.ObjectArithmetic\Maciko84.ObjectArithmetic\obj\Debug\net7.0\Maciko84.ObjectArithmetic.pdb
+C:\Users\missg\source\repos\Maciko84.ObjectArithmetic\Maciko84.ObjectArithmetic\obj\Debug\net7.0\ref\Maciko84.ObjectArithmetic.dll
